@@ -380,3 +380,5 @@ Github 사이트에서 Pull Request 생성
 9. 최종권자가 승인('Confirm merge')
 10. 원격 저장소 메인브런치에 병합 완료
 11. 로컬 저장소에서 main으로 변경 후(`git checkout main`), 변경된 메인을 다시 받음(`git pull origin main`)
+
+[HTML5 CSS JS : 연습은 여기에서](https://codepen.io/SangsunHong/pen/VwxqbQP?editors=0010)
